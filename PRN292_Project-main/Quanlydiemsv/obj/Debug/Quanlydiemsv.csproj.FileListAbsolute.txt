@@ -1,0 +1,96 @@
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\bin\Debug\Quanlydiemsv.exe
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\bin\Debug\Quanlydiemsv.pdb
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.csprojAssemblyReference.cache
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmDangNhap.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmDoiMatKhau.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmMain.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQuanLyNguoiDung.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.Properties.Resources.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.GenerateResource.cache
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.CoreCompileInputs.cache
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.exe
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.pdb
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmMonHoc.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmKhoa.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmLop.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmGiangVien.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQLDiem.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQLSV.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmTimDiemSV.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\bin\Debug\Quanlydiemsv.exe
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\bin\Debug\Quanlydiemsv.pdb
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.AssemblyReference.cache
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmDangNhap.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmDoiMatKhau.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmMain.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmKhoa.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmLop.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmGiangVien.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQLDiem.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQLSV.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmMonHoc.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQuanLyNguoiDung.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmTimDiemSV.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.Properties.Resources.resources
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.GenerateResource.cache
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.CoreCompileInputs.cache
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.exe
+D:\DOCUMENT\Ky5\PRN292\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.pdb
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\bin\Debug\Quanlydiemsv.exe
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\bin\Debug\Quanlydiemsv.pdb
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmDangNhap.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmDoiMatKhau.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmMain.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmKhoa.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmLop.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmGiangVien.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQLDiem.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQLSV.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmMonHoc.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQuanLyNguoiDung.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmTimDiemSV.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.Properties.Resources.resources
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.exe
+C:\Users\Admin\Desktop\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.pdb
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\bin\Debug\Quanlydiemsv.exe
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\bin\Debug\Quanlydiemsv.pdb
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmDangNhap.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmDoiMatKhau.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmMain.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmKhoa.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmLop.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmGiangVien.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQLDiem.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQLSV.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmMonHoc.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQuanLyNguoiDung.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmTimDiemSV.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.Properties.Resources.resources
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.exe
+C:\Users\Admin\Desktop\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.pdb
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\bin\Debug\Quanlydiemsv.exe.config
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\bin\Debug\Quanlydiemsv.exe
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\bin\Debug\Quanlydiemsv.pdb
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmDangNhap.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmDoiMatKhau.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmMain.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmKhoa.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmLop.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmGiangVien.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQLDiem.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQLSV.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmMonHoc.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmQuanLyNguoiDung.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.frmTimDiemSV.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.exe
+C:\Users\Admin\Desktop\New folder (2)\SE1440_Group5_Project\PRN292_Project-main\Quanlydiemsv\obj\Debug\Quanlydiemsv.pdb

@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{246A2844-82F4-4CFF-9806-8524410D62F9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Quanlydiemsv</RootNamespace>
+    <AssemblyName>Quanlydiemsv</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess\DAO.cs" />
+    <Compile Include="DataAccess\GiangVienDAO.cs" />
+    <Compile Include="DataAccess\KetQuaDAO.cs" />
+    <Compile Include="DataAccess\KhoaDAO.cs" />
+    <Compile Include="DataAccess\LoginDAO.cs" />
+    <Compile Include="DataAccess\LopDAO.cs" />
+    <Compile Include="DataAccess\MonDAO.cs" />
+    <Compile Include="DataAccess\SinhVienDAO.cs" />
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.Designer.cs">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKhoa.Designer.cs">
+      <DependentUpon>frmKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLop.Designer.cs">
+      <DependentUpon>frmLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiangVien.Designer.cs">
+      <DependentUpon>frmGiangVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLDiem.Designer.cs">
+      <DependentUpon>frmQLDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLSV.Designer.cs">
+      <DependentUpon>frmQLSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMonHoc.Designer.cs">
+      <DependentUpon>frmMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuanLyNguoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuanLyNguoiDung.Designer.cs">
+      <DependentUpon>frmQuanLyNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimDiemSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimDiemSV.Designer.cs">
+      <DependentUpon>frmTimDiemSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\Compare.cs" />
+    <Compile Include="Logic\GiangVien.cs" />
+    <Compile Include="Logic\KetQua.cs" />
+    <Compile Include="Logic\Khoa.cs" />
+    <Compile Include="Logic\Login.cs" />
+    <Compile Include="Logic\Lop.cs" />
+    <Compile Include="Logic\Mon.cs" />
+    <Compile Include="Logic\SinhVien.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoiMatKhau.resx">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKhoa.resx">
+      <DependentUpon>frmKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLop.resx">
+      <DependentUpon>frmLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiangVien.resx">
+      <DependentUpon>frmGiangVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLDiem.resx">
+      <DependentUpon>frmQLDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLSV.resx">
+      <DependentUpon>frmQLSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMonHoc.resx">
+      <DependentUpon>frmMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuanLyNguoiDung.resx">
+      <DependentUpon>frmQuanLyNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimDiemSV.resx">
+      <DependentUpon>frmTimDiemSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\Gear-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\Actions-list-add-user-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\Apps-session-logout-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\inside-logout-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\Start-Menu-Search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\user-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\Accept-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\Add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\Button-Delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\category-item-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\data-management-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\Logo_Đại_học_FPT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\nha-alpha.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\System-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="image\learning background_280221.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>if exist "$(TargetPath).locked" del "$(TargetPath).locked"
+if exist "$(TargetPath)" if not exist "$(TargetPath).locked" move "$(TargetPath)" "$(TargetPath).locked"</PreBuildEvent>
+  </PropertyGroup>
+</Project>
